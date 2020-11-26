@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wj/wj.iml" filepath="$PROJECT_DIR$/wj/wj.iml" />
       <module fileurl="file://$PROJECT_DIR$/wj-vue/wj-vue.iml" filepath="$PROJECT_DIR$/wj-vue/wj-vue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wj-vue-idea/wj-vue-idea.iml" filepath="$PROJECT_DIR$/wj-vue-idea/wj-vue-idea.iml" />
     </modules>
   </component>
 </project>

@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Login from '../components/Login'
 import AppIndex from '../components/home/AppIndex'
 import Home from '../components/Home'
-import LibraryIndex from "../components/library/LibraryIndex";
+import LibraryIndex from '../components/library/LibraryIndex'
 
 Vue.use(Router)
 

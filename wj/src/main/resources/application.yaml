@@ -3,10 +3,10 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://192.168.196.179:3306/white_jotter?
+    url: jdbc:mysql://192.168.196.179:3306/white_jotter?characterEncoding=UTF-8&serverTimezone=GMT%2B8
     username: root
     password: 123456
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: none

@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
+// 文件中引入 vue 和 vuex
 Vue.use(Vuex)
 
 export default new Vuex.Store({
